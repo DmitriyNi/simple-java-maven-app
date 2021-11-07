@@ -37,7 +37,7 @@
   <activeProfile>nexus</activeProfile>
 </activeProfiles>
 
-
+<settings>
   <servers>
     <server>
       <id>nexus</id>
